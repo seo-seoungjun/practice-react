@@ -1,0 +1,14 @@
+{
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  },
+  "beautify.ignore": "",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.format.enable": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "indentRainbow.tabmixColor": "rgba(128,32,96,0.3)"
+}
